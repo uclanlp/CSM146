@@ -20,7 +20,7 @@ The following schedule is subjected to change.
 | 	 | 2/1  | Regression | | |			
 | Week 5 | 2/6	| Computational Learning Theory	|  | HW 2 |
 |	 | 2/8	| Kernels	| HW3 (LT, Kernel, SVM) |
-| Week 6 | 2/13	| In-class mid-term	| |		
+| Week 6 | 2/13	| **In-class MID-TERM** (Week 1 -- Week 4)	| |		
 |	 | 2/15	| Support Vector Machines | |			
 | Week 7 | 2/20	| Ensemble methods | |	
 |	 | 2/22	| Multclass classification | HW4 (EM, MC) | |	
@@ -30,7 +30,7 @@ The following schedule is subjected to change.
 | 	 | 3/8 | HMMs | | |			
 | Week 10 | 3/13 | HMMs continued |	|	HW 5|
 | 	| 3/15	| Neural networks			
-| Final | 3/22 | FINAL (Week 1 -- Week 10)		
+| Final | 3/22 | **FINAL EXAM** (Week 1 -- Week 10)		
 
 
  
