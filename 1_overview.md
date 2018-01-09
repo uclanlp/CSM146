@@ -5,16 +5,6 @@ permalink: /overview
 name: 1
 ---
 
-## Slides, course materials : 
-Please login to [CCLE](https://ccle.ucla.edu/course/view/18W-COMSCIM146-1)  
-  
-## Homework, gradebook:
-We will use [gradescope](https://gradescope.com/) for grading and homework submission.
-
-## Announcement, discussion:
-Please post your questions at [Piazza](piazza.com/ucla/winter2018/m146)
-
-
 ## Course Information: 
 #### Lectures:
   * Time: Tue/Thu 2:00pm -- 3:50pm.
@@ -41,6 +31,16 @@ Please post your questions at [Piazza](piazza.com/ucla/winter2018/m146)
     * Discussion session: Fri. 2pm-3:50pm, Botany Building 325
     * TA hour: TBA
   
+#### Slides, course materials : 
+Please login to [CCLE](https://ccle.ucla.edu/course/view/18W-COMSCIM146-1)  
+  
+#### Homework, gradebook:
+We will use [gradescope](https://gradescope.com/) for grading and homework submission.
+
+#### Announcement, discussion:
+Please post your questions at [Piazza](piazza.com/ucla/winter2018/m146)
+
+
 #### Course Description
 
 Machine Learning encompasses the study of algorithms that learn from data. It has been a key
