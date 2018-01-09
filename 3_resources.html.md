@@ -4,7 +4,7 @@ title: Resources
 permalink: /resource
 name: 3
 ---
-### Related readings:
+### Textbook:
 THe following handouts and write-ups are related to the course:
 - [Language Model (Michael Collins)](http://www.cs.columbia.edu/~mcollins/lm-spring2013.pdf)
 - [HMM & Tagging (Michael Collins)](http://www.cs.columbia.edu/~mcollins/hmms-spring2013.pdf)
