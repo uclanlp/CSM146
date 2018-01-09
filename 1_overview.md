@@ -57,7 +57,7 @@ While there is not one textbook that covers all the material from this course, r
 the following texts:
   * [A course in machine learning](http://ciml.info/index_0_9.html): by Hal Daume III, which will be referred to as CIML (freely
 available online ) is the primary reference. We will use version 0.9 of CIML.
-  * Patter recognition and machine learning by Christopher M. Bishop
+  * Pattern recognition and machine learning by Christopher M. Bishop
 
 
 
