@@ -5,9 +5,16 @@ permalink: /overview
 name: 1
 ---
 
-## Announcements: 
-  * 09.23.2017: Welcome to CS M146: Introduction to Machine Learning
+## Slides, course materials : 
+Please login to [CCLE](https://ccle.ucla.edu/course/view/18W-COMSCIM146-1)  
   
+## Homework, gradebook:
+We will use [gradescope](https://gradescope.com/) for grading and homework submission.
+
+## Announcement, discussion:
+Please post your questions at [Piazza](piazza.com/ucla/winter2018/m146)
+
+
 ## Course Information: 
 #### Lectures:
   * Time: Tue/Thu 2:00pm -- 3:50pm.
