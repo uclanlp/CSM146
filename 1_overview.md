@@ -12,24 +12,24 @@ name: 1
   
 #### Staff
 * Instructor: [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), Email to: kw+cm146@kwchang.net
-  * Office hour:  4:00pm -- 5:00pm, Tue
+  * Office hour:  4pm -- 5pm, Tue
   * Office location: Engr VI 374
 * TA: 
   * [Wasi Ahmed](wasiahmad@ucla.edu)
     * Discussion session: Fri. 4pm-5:50pm, La Kretz Hall 120
-    * TA hour: TBA
+    * TA hour: 4pm -- 6pm, Wed, Boelter 2432
   * [Sajad Darabi](sajad10@ucla.edu)
     * Discussion session: Fri. 4pm-5:50pm, Mathematical Sciences 5128
-    * TA hour: TBA
+    * TA hour: 9am -- 11am, Wed, Boelter 2432
   * [Xinzhu Bei](xzbei@cs.ucla.edu)
     * Discussion session: Fri. 2pm-3:50pm, Public Affairs Building 1337
-    * TA hour: TBA
+    * TA hour: 12pm -- 2pm, Mon, Boelter 2432
   * [Varun Saboo](v18saboo@cs.ucla.edu)
     * Discussion session: Fri. 12pm-1:50pm, Dodd Hall 161
-    * TA hour: TBA
+    * TA hour: 12pm -- 2pm, Thu, Boelter 2432
   * [Seungbae Kim](ksb2043@gmail.com)
     * Discussion session: Fri. 2pm-3:50pm, Botany Building 325
-    * TA hour: TBA
+    * TA hour: 1pm -- 3pm, Mon, Boelter 2432
   
 #### Slides, course materials : 
 Please login to [CCLE](https://ccle.ucla.edu/course/view/18W-COMSCIM146-1)  
