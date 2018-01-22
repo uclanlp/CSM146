@@ -13,9 +13,9 @@ The following schedule is subjected to change.
 | Week 1	| 1/9	 | Introduction	|	HW 0 	|   |
 |        | 1/11 |	Introduction | | | 			
 | Week 2 | 1/16	| Math review mini quiz. Statistics | | |			
-|        | 1/18 | Decision trees	| HW 1 (DT) | |	
+|        | 1/18 | Decision trees	| HW 1 (DT+NN) | |	
 | Week 3 | 1/23 | Nearest neighbors | | |			
-|	 | 1/25	| Linear classification	| HW 2 (NN+LC+LR) | |
+|	 | 1/25	| Linear classification	| HW 2 (LC+LR) | |
 | Week 4 | 1/30	| Logistic regression |	 | HW1 |
 | 	 | 2/1  | Regression | | |			
 | Week 5 | 2/6	| Computational Learning Theory	|  | HW 2 |
