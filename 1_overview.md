@@ -23,7 +23,7 @@ name: 1
     * TA hour: 9am -- 11am, Wed, Boelter 2432
   * [Xinzhu Bei](xzbei@cs.ucla.edu)
     * Discussion session: Fri. 2pm-3:50pm, Public Affairs Building 1337
-    * TA hour: 12pm -- 2pm, Mon, Boelter 2432
+    * TA hour: 12pm -- 2pm, Mon, ENG VI 386.
   * [Varun Saboo](v18saboo@cs.ucla.edu)
     * Discussion session: Fri. 12pm-1:50pm, Dodd Hall 161
     * TA hour: 12pm -- 2pm, Thu, Boelter 2432
