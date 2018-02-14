@@ -19,9 +19,9 @@ The following schedule is subjected to change.
 | Week 4 | 1/30	| Logistic regression |	 | HW1 |
 | 	 | 2/1  | Regression | | |			
 | Week 5 | 2/6	| Computational Learning Theory	|  | HW 2 |
-|	 | 2/8	| Kernels	| HW3 (LT, Kernel, SVM) |
+|	 | 2/8	| Kernels	| |
 | Week 6 | 2/13	| **In-class MID-TERM** (Week 1 -- Week 4)	| |		
-|	 | 2/15	| Support Vector Machines | |			
+|	 | 2/15	| Support Vector Machines | HW3 (LT, Kernel, SVM) |			
 | Week 7 | 2/20	| Ensemble methods | |	
 |	 | 2/22	| Multclass classification | HW4 (EM, MC) | |	
 | Week 8 | 2/27 | Clustering | | HW 3 |
