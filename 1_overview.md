@@ -7,38 +7,25 @@ name: 1
 
 ## Course Information: 
 #### Lectures:
-  * Time: Tue/Thu 2:00pm -- 3:50pm.
-  * Location: Franz Hall 1178
+  * Time: Mon/Wed 4:00pm -- 5:50pm.
+  * Location: Boelter Hall 3400
   
 #### Staff
-* Instructor: [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), Email to: kw+cm146@kwchang.net
+* Instructor: [Kai-Wei Chang](http://kwchang.net), Email to: kw+cm146@kwchang.net
   * Office hour:  4pm -- 5pm, Tue
   * Office location: Engr VI 374
 * TA: 
-  * [Wasi Ahmed](wasiahmad@ucla.edu)
-    * Discussion session: Fri. 4pm-5:50pm, La Kretz Hall 120
-    * TA hour: 4pm -- 6pm, Wed, Boelter 2432
-  * [Sajad Darabi](sajad10@ucla.edu)
-    * Discussion session: Fri. 4pm-5:50pm, Mathematical Sciences 5128
-    * TA hour: 9am -- 11am, Wed, Boelter 2432
-  * [Xinzhu Bei](xzbei@cs.ucla.edu)
-    * Discussion session: Fri. 2pm-3:50pm, Public Affairs Building 1337
-    * TA hour: 12pm -- 2pm, Mon, ENG VI 386.
-  * [Varun Saboo](v18saboo@cs.ucla.edu)
-    * Discussion session: Fri. 12pm-1:50pm, Dodd Hall 161
-    * TA hour: 12pm -- 2pm, Thu, Boelter 2432
-  * [Seungbae Kim](ksb2043@gmail.com)
-    * Discussion session: Fri. 2pm-3:50pm, Botany Building 325
-    * TA hour: 1pm -- 3pm, Mon, Boelter 2432
-  
+
+
+
 #### Slides, course materials : 
-Please login to [CCLE](https://ccle.ucla.edu/course/view/18W-COMSCIM146-1)  
+Please login to [CCLE](https://ccle.ucla.edu/course/view/18F-COMSCIM146-1)  
   
 #### Homework, gradebook:
 We will use [gradescope](https://gradescope.com/) for grading and homework submission.
 
 #### Announcement, discussion:
-Please post your questions at [Piazza](piazza.com/ucla/winter2018/m146)
+Please post your questions at [Piazza](piazza.com/ucla/fall2018/m146)
 
 
 #### Course Description
@@ -59,7 +46,7 @@ sets; specifically students are expected to be familiar with python and scikit-l
 learning package for python) or learn it during the course.
 
 
-#### [References](https://uclanlp.github.io/CSM146-18W/resource):
+#### [References](https://uclanlp.github.io/CSM148/resource):
 While there is not one textbook that covers all the material from this course, readings will come from
 the following texts:
   * [A course in machine learning](http://ciml.info/index_0_9.html): by Hal Daume III, which will be referred to as CIML (freely
